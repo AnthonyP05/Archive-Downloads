@@ -22,6 +22,6 @@ Yes the .exe is safe but if you'd prefer to run the file yourself, the file is i
 > hitting your windows key and typing **cmd** and hitting enter.
 >
 > Once opened, head to your downloads folder and unzip or extract the downloaded file. Right-click the unzipped or
-> extracted file and click "Copy as Path" and go back to your command prompt and type "cd {paste path here}"
+> extracted file and click **"Copy as Path"** and go back to your command prompt and type **"cd {paste path here}"**
 >
 > Finally, you can type the command **"python fileAutomation.py"**
