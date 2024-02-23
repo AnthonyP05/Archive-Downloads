@@ -4,7 +4,7 @@ This is my first public script. I'm still new to developing and thought I'd make
 
 ## What does it do?
 
-Once ran, it will go through your downloads folder and archive all of them into your C:\User\%user%\Documents directory in a folder labeled "Archive" in their respective cateogry file type.
+Once ran, it will go through your downloads folder and archive all of them into your C:\User\\%user%\Documents directory in a folder labeled "Archive" in their respective cateogry file type.
 
 ## How do I use it?
 
